@@ -24,3 +24,12 @@ Dataset: Kaggle – Credit Card Fraud Detection
 💳 Fraud Detection Systems for banks and payment platforms
 🔐 Cybersecurity Applications in financial systems
 💡 Machine Learning Practice on imbalanced datasets
+
+<img width="1333" height="843" alt="image" src="https://github.com/user-attachments/assets/9f1665a5-a3c9-4a82-9864-7e4f177ecd62" />
+<img width="1293" height="914" alt="image" src="https://github.com/user-attachments/assets/4d50ab72-50ba-4e9b-a197-e5e28a5b5f31" />
+<img width="939" height="795" alt="image" src="https://github.com/user-attachments/assets/536abf0a-be00-4113-841a-0b09fa77dd27" />
+<img width="1423" height="755" alt="image" src="https://github.com/user-attachments/assets/fe80f210-5695-47a3-a7bb-e12c4e8e2618" />
+
+
+
+
